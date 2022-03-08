@@ -1,0 +1,39 @@
+
+.welcome{
+    background-color: rgba(30,50,250,0.3);
+    width: 700px;
+    padding: 15px;
+    border-radius: 12px;
+    margin-left: 400px;
+    margin-top: 150px;
+    text-align: center;
+}
+.tag{
+    text-decoration: none;
+    color: white;
+}
+.head{
+    color: white;
+}
+h4{
+    color: maroon;
+}
+.form{
+
+    color: white;
+    width: 300px;
+    text-align: center;
+    margin-left: 580px;
+    margin-top: 90px;
+    border-radius: 4px;
+    background-color: dodgerblue;
+    padding: 10px;
+
+
+}
+.clor{
+    color: white;
+}
+.welcome1 h5{
+    color: white;
+}
